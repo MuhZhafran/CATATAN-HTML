@@ -167,21 +167,18 @@ Perintah SQL ini akan menghasilkan sekumpulan data yang berisi semua kolom dari 
 ## TANTANGAN LOGIN
 ### Struktur query
 ```
-select data from [nama_tabel] where data ="nilai";
+select data1 from nama_tabel where data2='admin' and data3='12345';
 ```
 ### Contoh query
 ```sql
-select pemilik from mobil where pemilik ="zhafran";
+select nama from tantangan_login where username='admin' and password='12345';
 ```
 ### Hasil
-![[Screenshot_2024-02-20-15-33-21-181_com.termux.png]]
+![[tntL.png]]
 ### Analisis
-- `select` Perintah ini digunakan untuk memilih semua kolom dari tabel yang ditentukan. Artinya, semua data dalam baris yang memenuhi syarat akan ditampilkan dalam hasil query.
-- `FROM mobil` Bagian ini menentukan tabel `mobil` sebagai sumber data. Jadi, query ini akan mencari data dalam tabel `mobil`.
-- `WHERE` digunakan untuk menyaring baris-baris dalam tabel berdasarkan kondisi yang ditentukan.
-- Kondisi `pemilik = "zhafran"` berarti hanya baris-baris dengan nilai `pemilik` yang sama dengan "zhafran" yang akan disertakan dalam hasil query.
+Kode tersebut adalah perintah SQL yang digunakan untuk mengambil data dari tabel "tantangan_akun" di mana nilai kolom "nama" adalah "githa". Dengan kata lain, perintah tersebut akan mengembalikan semua baris dari tabel "tantangan_login" di mana nama akun yang ingin di seleksi adalah "githa"
 ### Kesimpulan
-Perintah SQL ini akan menghasilkan sekumpulan data yang hanya berisi kolom `pemilik` dari tabel `mobil`, dengan ketentuan Kolom `pemilik` harus memiliki nilai yang sama dengan "zhafran". Jika ada baris yang memenuhi syarat `pemilik = "zhafran"`, maka nilai kolom `pemilik` dari baris-baris tersebut akan muncul dalam hasil query. Jika tidak ada baris yang memenuhi syarat tersebut, maka hasil query akan kosong.
+Kesimpulan dari kode tersebut adalah bahwa kita ingin seleksi data akun yang dimiliki oleh seseorang dengan nama "githa".
 
 ---
 

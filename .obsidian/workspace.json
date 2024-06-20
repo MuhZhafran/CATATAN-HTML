@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pemrograman web/remedial html.md",
+                "file": "Basis Data/Instalasi & query awal database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pemrograman web/remedial html.md",
+                "file": "Basis Data/Instalasi & query awal database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pemrograman web/remedial html.md"
+                "file": "Basis Data/Instalasi & query awal database.md"
               }
             }
           }
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,49 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd807ca6608e2fb7",
+  "active": "f400e349bc877c4e",
   "lastOpenFiles": [
-    "pesonaindo.html/Assets/three-horizontal-lines.webp",
-    "pesonaindo.html/Assets/profil.png",
-    "pesonaindo.html/Assets/logo.png",
-    "pesonaindo.html/Assets/img-4.jpg",
-    "pesonaindo.html/Assets/img-3.jpg",
-    "pesonaindo.html/Assets/img-2.jpg",
-    "pesonaindo.html/Assets/img-1.jpg",
-    "pesonaindo.html/Assets/hero-image.jpg",
+    "Basis Data/Pengenalan Basis data..md",
+    "Basis Data/Pratikum.md",
+    "Basis Data/SELECT LANJUTAN.md",
+    "pemrograman web/remedial html.md",
+    "Basis Data/tugas.md",
+    "pemrograman web/PHP MySQL.md",
+    "pemrograman web/3.)Pengenalan HTML.md",
+    "pemrograman web/4.)Pengenalan CSS.md",
+    "pemrograman web/assets/pdr.png",
+    "pemrograman web/assets/pdl.png",
+    "pemrograman web/assets/brclr.png",
+    "pemrograman web/assets/brsd.png",
+    "pemrograman web/assets/brds.png",
+    "pemrograman web/assets/brd.png",
+    "pemrograman web/assets/bxmd.png",
+    "pemrograman web/assets/pst.png",
+    "pemrograman web/assets/bgs.png",
+    "pemrograman web/assets/fmly.png",
+    "pemrograman web/PHP.md",
+    "assets/tmbh2,png.md",
+    "Assets/tmbh2,png.md",
+    "pemrograman web/PHP MYADMIN.md",
+    "praktikum/2-4.md",
+    "pemrograman web/assets/smk.md",
+    "PRAKTIKUM 7/PRAKTIKUM 7/PRAKTIKUM 7.md",
+    "PRAKTIKUM 7/PRAKTIKUM 7/Asett",
+    "PRAKTIKUM 7/PRAKTIKUM 7/asets",
+    "PRAKTIKUM 7/PRAKTIKUM 7/aset",
+    "PRAKTIKUM 7/PRAKTIKUM 7/aseets",
+    "PRAKTIKUM 7/PRAKTIKUM 7",
+    "PRAKTIKUM 7",
+    "Basis Data/Instalasi & query awal database.md",
+    "praktikum/aseets",
+    "praktikum/assets.md",
+    "Welcome.md",
+    "praktikum",
     "pesonaindo.html/Assets",
     "pesonaindo.html/index.html",
-    "pesonaindo.html",
-    "pemrograman web/PHP.md",
-    "pemrograman web/remedial html.md",
-    "pemrograman web/assets/vardump.png",
-    "pemrograman web/assets/getP.png",
-    "pemrograman web/assets/getM.png",
-    "Basis Data/Pengenalan Basis data..md",
     "pemrograman web/Pemrograman Web/Assets/smk.md",
-    "pemrograman web/Pemrograman Web/Assets",
     "pemrograman web/Pemrograman Web/4.)Pengenalan CSS.md",
     "pemrograman web/Pemrograman Web/3.)Pengenalan HTML.md",
     "pemrograman web/Pemrograman Web/2).Deskripsi HTML, CSS, JAVASCRIPT..md",
     "pemrograman web/Pemrograman Web/1).Kesimpulan video.md",
-    "pemrograman web/Pemrograman Web",
-    "pemrograman web/3.)Pengenalan HTML.md",
-    "pemrograman web/4.)Pengenalan CSS.md",
-    "Basis Data/SELECT LANJUTAN.md",
-    "Basis Data/Instalasi & query awal database.md",
-    "Basis Data/PHP MYADMIN.md",
-    "Basis Data/Pratikum.md",
-    "pemrograman web/PHP MySQL.md",
     "Basis Data/ALTER.md",
     "Assets/notlike.md",
-    "Assets",
-    "Welcome.md",
-    "Basis Data/assets.md",
-    "Basis Data/tugas.md",
-    "percobaan1.php",
-    "Basis Data",
-    "pemrograman web/assets",
-    "pemrograman web/assets.md",
-    "pemrograman web"
+    "Basis Data/assets.md"
   ]
 }
