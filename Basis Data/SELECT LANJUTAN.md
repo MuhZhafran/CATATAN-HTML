@@ -174,7 +174,7 @@ select data1 from nama_tabel where data2='admin' and data3='12345';
 select nama from tantangan_login where username='admin' and password='12345';
 ```
 ### Hasil
-![[tntL.png]]
+![](Assets/tntL.png)
 ### Analisis
 Kode tersebut adalah perintah SQL yang digunakan untuk mengambil data dari tabel "tantangan_akun" di mana nilai kolom "nama" adalah "githa". Dengan kata lain, perintah tersebut akan mengembalikan semua baris dari tabel "tantangan_login" di mana nama akun yang ingin di seleksi adalah "githa"
 ### Kesimpulan

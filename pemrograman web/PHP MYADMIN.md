@@ -1,2 +1,0 @@
-# DATA TABEL PEGAWAI
-# 

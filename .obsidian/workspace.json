@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis Data/ALTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f400e349bc877c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis Data/Pengenalan Basis data..md",
+                "file": "Basis Data/GROUP BY & HAVING.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis Data/Pengenalan Basis data..md",
+                "file": "Basis Data/GROUP BY & HAVING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basis Data/Pengenalan Basis data..md",
+                "file": "Basis Data/GROUP BY & HAVING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basis Data/Pengenalan Basis data..md"
+                "file": "Basis Data/GROUP BY & HAVING.md"
               }
             }
           }
@@ -183,52 +171,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f400e349bc877c4e",
+  "active": "13bc9cd9a0164912",
   "lastOpenFiles": [
-    "pemrograman web/remedial html.pdf",
-    "pesonaindo.html/Assets/img-1.jpg",
-    "pesonaindo.html/Assets/hero-image.jpg",
-    "PRAKTIKUM 7/PRAKTIKUM 7/PRAKTIKUM 7.md",
-    "PRAKTIKUM 7/PRAKTIKUM 7.pdf",
-    "pemrograman web/remedial html.md",
-    "pemrograman web/PHP MySQL.md",
-    "pemrograman web/PHP MySQL.pdf",
-    "pemrograman web/PHP MYADMIN.md",
-    "pemrograman web/PHP.md",
-    "pemrograman web/PHP.pdf",
-    "pemrograman web/4.)Pengenalan CSS.md",
-    "pemrograman web/4.)Pengenalan CSS.pdf",
-    "pemrograman web/3.)Pengenalan HTML.md",
-    "pemrograman web/3.)Pengenalan HTML.pdf",
-    "Basis Data/SELECT LANJUTAN.md",
-    "Basis Data/SELECT LANJUTAN.pdf",
+    "Basis Data/GROUP BY & HAVING.pdf",
     "Basis Data/Pengenalan Basis data..md",
+    "Basis Data/RELASI TABLE.md",
+    "Basis Data/RELASI TABLE.pdf",
+    "pemrograman web/materi/ekplorasi/RELASI TABLE.pdf",
+    "pemrograman web/materi/ekplorasi/Eksplorasi.md",
+    "pemrograman web/PHP MYADMIN.md",
+    "pemrograman web/materi/ekplorasi/Eksplorasi.pdf",
+    "Basis Data/GROUP BY & HAVING.md",
+    "Basis Data/Assets/gbh7.png",
+    "Basis Data/Assets/gbh6.png",
+    "Basis Data/Assets/gbh5.png",
+    "Basis Data/Assets/gbh4.png",
+    "Basis Data/Assets/gbh3.png",
+    "Basis Data/Assets/gbh2.png",
+    "Basis Data/Assets/gbh1.png",
+    "Basis Data/SELECT LANJUTAN.md",
+    "Basis Data/Assets/qC.png",
+    "Basis Data/Assets/relasis.png",
+    "Basis Data/Assets/nbB.png",
+    "pemrograman web/materi/css/4.)Pengenalan CSS.md",
+    "aset/ekporaasi..md",
+    "aset",
     "Basis Data/Instalasi & query awal database.md",
-    "Basis Data/Instalasi & query awal database.pdf",
+    "pemrograman web/materi/ekplorasi/aset",
+    "pemrograman web/materi/ekplorasi",
+    "pemrograman web/materi/Ekplorasi/Eksplorasi.md",
+    "pemrograman web/materi/Ekplorasi/aset",
+    "pemrograman web/materi/Ekplorasi",
+    "pemrograman web/materi/ek/Eksplorasi.md",
+    "pemrograman web/materi/ek/aset",
+    "pemrograman web/materi/ek",
+    "pemrograman web/materi/New folder/Eksplorasi.md",
+    "pemrograman web/materi/Responsive/RESPONSIVE.md",
+    "pemrograman web/PHP MySQL.md",
+    "pemrograman web/materi/Bootstrap/Bootstrap Framework.md",
+    "pemrograman web/materi/bootstrap/bootstrap framework.md",
     "Basis Data/ALTER.md",
-    "Basis Data/ALTER.pdf",
-    "Basis Data/Pratikum.md",
-    "Basis Data/tugas.md",
-    "pemrograman web/assets/pdr.png",
-    "pemrograman web/assets/pdl.png",
-    "pemrograman web/assets/brclr.png",
-    "pemrograman web/assets/brsd.png",
-    "pemrograman web/assets/brds.png",
-    "pemrograman web/assets/brd.png",
-    "pemrograman web/assets/bxmd.png",
-    "pemrograman web/assets/pst.png",
-    "assets/tmbh2,png.md",
-    "Assets/tmbh2,png.md",
-    "praktikum/2-4.md",
-    "pemrograman web/assets/smk.md",
-    "PRAKTIKUM 7/PRAKTIKUM 7/Asett",
-    "praktikum/assets.md",
-    "Welcome.md",
-    "pemrograman web/Pemrograman Web/Assets/smk.md",
-    "pemrograman web/Pemrograman Web/4.)Pengenalan CSS.md",
-    "pemrograman web/Pemrograman Web/3.)Pengenalan HTML.md",
-    "pemrograman web/Pemrograman Web/2).Deskripsi HTML, CSS, JAVASCRIPT..md",
-    "pemrograman web/Pemrograman Web/1).Kesimpulan video.md",
-    "Assets/notlike.md"
+    "pemrograman web/materi/boostrap.md",
+    "pemrograman web/materi/css/assets/smk.md",
+    "pemrograman web/materi/4.)Pengenalan CSS.md",
+    "pemrograman web/materi/New folder/4.)Pengenalan CSS.md",
+    "pemrograman web/4.)Pengenalan CSS.md",
+    "PRAKTIKUM 7/PRAKTIKUM 7/PRAKTIKUM 7.md",
+    "pemrograman web/remedial html.md",
+    "pemrograman web/PHP.md"
   ]
 }
