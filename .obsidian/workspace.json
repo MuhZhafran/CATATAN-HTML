@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a61855689902ee9e",
+        "id": "6bfda7a1c374500d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b43a8648308a152",
+            "id": "656257ab68356e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f34c3369ad0566f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pemrograman web/remedial html.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13bc9cd9a0164912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis Data/GROUP BY & HAVING.md",
+                "file": "punishment/PHP/RANGKUMAN PHP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basis Data/GROUP BY & HAVING.md",
+                "file": "punishment/PHP/RANGKUMAN PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basis Data/GROUP BY & HAVING.md",
+                "file": "punishment/PHP/RANGKUMAN PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basis Data/GROUP BY & HAVING.md"
+                "file": "punishment/PHP/RANGKUMAN PHP.md"
               }
             }
           }
@@ -171,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13bc9cd9a0164912",
+  "active": "656257ab68356e11",
   "lastOpenFiles": [
-    "Basis Data/GROUP BY & HAVING.pdf",
+    "punishment/PHP/RANGKUMAN PHP.pdf",
+    "punishment/HTML/RANGKUMAN HTML.md",
+    "punishment/HTML/RANGKUMAN HTML.pdf",
+    "punishment/CSS/RANGKUMAN CSS.md",
+    "punishment/CSS/RANGKUMAN CSS.pdf",
+    "punishment/Basis data/RANGKUMAN BASIS DATA.md",
+    "punishment/Basis data/RANGKUMAN BASIS DATA.pdf",
+    "punishment/PHP/RANGKUMAN PHP.md",
+    "pemrograman web/PHP MySQL.md",
+    "punishment/PHP/aseet/ssion1.png",
+    "punishment/PHP/aseet/hps.png",
+    "punishment/PHP/aseet/ssion2.png",
+    "punishment/PHP/aseet/ubh1.png",
+    "punishment/PHP/aseet/tmbh2.png",
+    "punishment/PHP/aseet/tmbh1.png",
+    "punishment/PHP/aseet/koneksi.png",
+    "punishment/PHP/aseet/ubh2.png",
+    "pemrograman web/PHP.md",
+    "punishment/PHP/aseet/getM.png",
+    "punishment/PHP/aseet/getP.png",
+    "Welcome.md",
+    "Basis Data/ALTER.md",
+    "Basis Data/GROUP BY & HAVING.md",
+    "Basis Data/SELECT LANJUTAN.md",
+    "Basis Data/Instalasi & query awal database.md",
+    "pemrograman web/remedial html.md",
+    "punishment/Basis data/asep",
+    "punishment/Basis data/New folder",
+    "punishment/Basis data",
+    "punishment/New folder",
+    "pemrograman web/materi/css/4.)Pengenalan CSS.md",
+    "pemrograman web/3.)Pengenalan HTML.md",
+    "punishment/PHP/aseet",
+    "punishment/PHP/New folder",
+    "punishment/PHP",
+    "punishment/RANGKUMAN HTML.md",
+    "punishment/asset/RANGKUMAN HTML.md",
     "Basis Data/Pengenalan Basis data..md",
     "Basis Data/RELASI TABLE.md",
-    "Basis Data/RELASI TABLE.pdf",
-    "pemrograman web/materi/ekplorasi/RELASI TABLE.pdf",
     "pemrograman web/materi/ekplorasi/Eksplorasi.md",
     "pemrograman web/PHP MYADMIN.md",
-    "pemrograman web/materi/ekplorasi/Eksplorasi.pdf",
-    "Basis Data/GROUP BY & HAVING.md",
-    "Basis Data/Assets/gbh7.png",
-    "Basis Data/Assets/gbh6.png",
-    "Basis Data/Assets/gbh5.png",
-    "Basis Data/Assets/gbh4.png",
-    "Basis Data/Assets/gbh3.png",
-    "Basis Data/Assets/gbh2.png",
-    "Basis Data/Assets/gbh1.png",
-    "Basis Data/SELECT LANJUTAN.md",
-    "Basis Data/Assets/qC.png",
-    "Basis Data/Assets/relasis.png",
-    "Basis Data/Assets/nbB.png",
-    "pemrograman web/materi/css/4.)Pengenalan CSS.md",
     "aset/ekporaasi..md",
-    "aset",
-    "Basis Data/Instalasi & query awal database.md",
-    "pemrograman web/materi/ekplorasi/aset",
-    "pemrograman web/materi/ekplorasi",
     "pemrograman web/materi/Ekplorasi/Eksplorasi.md",
-    "pemrograman web/materi/Ekplorasi/aset",
-    "pemrograman web/materi/Ekplorasi",
     "pemrograman web/materi/ek/Eksplorasi.md",
-    "pemrograman web/materi/ek/aset",
-    "pemrograman web/materi/ek",
     "pemrograman web/materi/New folder/Eksplorasi.md",
-    "pemrograman web/materi/Responsive/RESPONSIVE.md",
-    "pemrograman web/PHP MySQL.md",
-    "pemrograman web/materi/Bootstrap/Bootstrap Framework.md",
-    "pemrograman web/materi/bootstrap/bootstrap framework.md",
-    "Basis Data/ALTER.md",
-    "pemrograman web/materi/boostrap.md",
-    "pemrograman web/materi/css/assets/smk.md",
-    "pemrograman web/materi/4.)Pengenalan CSS.md",
-    "pemrograman web/materi/New folder/4.)Pengenalan CSS.md",
-    "pemrograman web/4.)Pengenalan CSS.md",
-    "PRAKTIKUM 7/PRAKTIKUM 7/PRAKTIKUM 7.md",
-    "pemrograman web/remedial html.md",
-    "pemrograman web/PHP.md"
+    "pemrograman web/materi/Responsive/RESPONSIVE.md"
   ]
 }

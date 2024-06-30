@@ -38,7 +38,7 @@ https://youtu.be/ez3nx3xH-y4?si=T4saycipqfBcqL1c
 # penggunaan awal MySQL
 ## Query
 
-```
+```mysql
 MySQL -u root
 ```
 
